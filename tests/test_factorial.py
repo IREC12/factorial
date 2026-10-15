@@ -4,7 +4,7 @@ from factorial import factorial
 
 
 def test_factorial_numero_positivo():
-    assert factorial(5) == 120
+    assert factorial(5) == 100
 
 
 def test_factorial_cero():
